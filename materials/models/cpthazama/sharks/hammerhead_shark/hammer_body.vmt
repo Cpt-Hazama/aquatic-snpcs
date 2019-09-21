@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+"$baseTexture" "models/cpthazama/sharks/hammerhead_shark/hammer_body"
+"$halflambert" 1
+}

@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cpthazama/subnautica/ghostleviathan/Ghost_Leviathan_inside"
+	"$bumpmap" "models/cpthazama/subnautica/ghostleviathan/Ghost_Leviathan_inside_n"
+	$alphatest 1
+
+	$emissiveBlendEnabled 1
+    $emissiveBlendTexture    "dev/null"
+    $emissiveBlendBaseTexture    "models/cpthazama/subnautica/ghostleviathan/Ghost_Leviathan_inside_g"
+    $emissiveBlendFlowTexture    "dev/null"
+    $emissiveBlendTint "[5 5 10]"
+    $emissiveBlendStrength 10
+    $emissiveBlendScrollVector "[0 0]"
+	
+	"$phongexponenttexture"	"models/cpthazama/subnautica/ghostleviathan/Ghost_Leviathan_inside_s"
+	"$phongalbedotint" "1"
+	"$phongexponent"	"70"
+	"$phong" "1"
+	"$phongboost"	"0.7"
+	"$phongtint" "[1 1 1]"
+	"$phongfresnelranges"	"[1 5 10]"
+}
