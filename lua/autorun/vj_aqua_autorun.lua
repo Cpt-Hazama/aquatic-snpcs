@@ -22,6 +22,7 @@ if VJExists == true then
 	VJ.AddNPC("Hammer Head Shark","npc_vj_aq_hammerhead",vCat)
 	VJ.AddNPC("Great White Shark","npc_vj_aq_greatwhite",vCat)
 	VJ.AddNPC("Ichthyosaur","npc_vj_aq_icky",vCat)
+	VJ.AddNPC("Ghost Leviathan","npc_vj_aq_ghostlevi",vCat)
 	
 -- !!!!!! DON'T TOUCH ANYTHING BELOW THIS !!!!!! -------------------------------------------------------------------------------------------------------------------------
 	AddCSLuaFile(AutorunFile)

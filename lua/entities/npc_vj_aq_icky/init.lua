@@ -71,7 +71,6 @@ function ENT:CustomOnAcceptInput(key,activator,caller,data)
 		self:MeleeAttackCode()
 	end
 end
-
 ---------------------------------------------------------------------------------------------------------------------------------------------
 function ENT:CustomOnDoKilledEnemy(argent,attacker,inflictor)
 	self.HungerLevel = self.HungerLevel +math.random(self.HungerGainAmount -3,self.HungerGainAmount +3)
